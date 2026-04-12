@@ -12,10 +12,10 @@ For bug fixes and general improvements, be sure to visit the [Issues](https://gi
 # Projects List - Ease of access
 *(Newest to Oldest)*
   
-- **Zen Bluesky:** [Visit](https://duffin.neocities.org/zenmodebsky)
+- **Zen Bluesky:** [Visit](https://duffin.neocities.org/zenmodebsky/)
   A random thought generator that streams public posts from the Bluesky social network. It's a simple way to get a continuous feed of thoughts and ideas from a curated list of profiles.
 
-- **GitHub Contributions Art:** [Visit](https://duffin.neocities.org/ghart)
+- **GitHub Contributions Art:** [Visit](https://duffin.neocities.org/ghart/)
   A simple and aesthetically pleasing way to view GitHub contribution graphs for any public GitHub user. It leverages an external service to generate the graph images, focusing on the visual patterns created by development activity.
 
 - **LocalHub:** [Visit](https://duffin.neocities.org/localhub/)
@@ -24,10 +24,10 @@ For bug fixes and general improvements, be sure to visit the [Issues](https://gi
 - **Notes App:** [Visit](https://duffin.neocities.org/notesapp/notes)
   A simple, accessible notes app. It lets you create, save, delete, and pin notes, with all your data stored locally in your browser.
 
-- **Time Capsule:** [Visit](https://duffin.neocities.org/timecapsule)
+- **Time Capsule:** [Visit](https://duffin.neocities.org/timecapsule/)
   An interactive webpage that allows users to explore historical milestones, tracking how much time has passed since significant events such as the moon landing, the release of the iPhone, and the invention of basketball. All in real-time.
 
-- **RandomURL:** [Visit](https://duffin.neocities.org/randomurl)
+- **RandomURL:** [Visit](https://duffin.neocities.org/randomurl/)
   A fun and engaging tool that generates random, algorithmically created URLs with every click. Users can explore a wide range of domains, paths, and query parameters, with some URLs featuring subdomains and special characters.
 
 - **Shuffle:** [Visit](https://duffin.neocities.org/shuffle/play)
